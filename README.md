@@ -23,7 +23,7 @@ Using [packer.nvim](https://github.com/wbthomason/packer.nvim):
 
 ```lua
 use {
-    'alikaya/runner.nvim',
+    'alikaya/runner-nvim',
     requires = {
         {'nvim-telescope/telescope.nvim'},
         {'nvim-lua/plenary.nvim'}
