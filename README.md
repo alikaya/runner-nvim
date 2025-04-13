@@ -65,13 +65,6 @@ The plugin automatically adds running process information to your status line. E
 ⚡ PHP Server, NPM Start
 ```
 
-### Default Commands
-
-- NPM Start (`npm start`)
-- NPM Dev (`npm run dev`)
-- Cargo Run (`cargo run`)
-- Cargo Build (`cargo build`)
-
 ## Adding Custom Commands
 
 You can add custom commands in two ways:
