@@ -23,7 +23,7 @@ Using [packer.nvim](https://github.com/wbthomason/packer.nvim):
 
 ```lua
 use {
-    'your-username/runner.nvim',
+    'alikaya/runner.nvim',
     requires = {
         {'nvim-telescope/telescope.nvim'},
         {'nvim-lua/plenary.nvim'}
@@ -67,7 +67,6 @@ The plugin automatically adds running process information to your status line. E
 
 ### Default Commands
 
-- PHP Server (`php -S localhost:8000`)
 - NPM Start (`npm start`)
 - NPM Dev (`npm run dev`)
 - Cargo Run (`cargo run`)
